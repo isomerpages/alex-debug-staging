@@ -23,4 +23,10 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar: {}
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
