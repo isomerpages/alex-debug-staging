@@ -12,11 +12,5 @@ sections:
       background: /images/hero-banner.png
       dropdown:
         title: Hero Dropdown Title
-        options:
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
-          - title: Hero Dropdown Element Title
-            url: ""
+        options: []
 ---
