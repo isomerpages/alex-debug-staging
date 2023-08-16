@@ -19,11 +19,4 @@ sections:
             url: ""
           - title: Hero Dropdown Element Title
             url: ""
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infobar: {}
 ---
